@@ -1,4 +1,6 @@
 # LeagueOfCalculation
+
+11/12/20 Original Creation
 // This is a League of Legends Calculation Program From C++. This will calculate the amount of skins you have into money. This might not be accurate but this is just combing prices from league. //
 
 
@@ -21,6 +23,11 @@ Icons: [$1]
 Wards: [$2]
 
 // These prices are implemented in the Program. //
+
+11/13/20
+
+// I have updated the code to have a menu now. It has 3 options, which is "start", "Inventory Price List", and "Exit". //
+// It is very simple but very cool to use. //
 
 
 // If Anyone Wants Me To Change Something Put It In The Issues Tab // 
