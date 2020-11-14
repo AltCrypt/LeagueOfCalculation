@@ -32,4 +32,6 @@ Wards: [$2]
 // It is very simple but very cool to use. //
 // It can also has color coded text to make the text easier to see //
 
+---------------------------------------------------------------------
 // If Anyone Wants Me To Change Something Put It In The Issues Tab // 
+---------------------------------------------------------------------
