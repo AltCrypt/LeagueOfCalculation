@@ -26,7 +26,7 @@ Wards: [$2]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-11/13/20
+11/14/20
 
 // I have updated the code to have a menu now. It has 3 options, which is "start", "Inventory Price List", and "Exit". //
 // It is very simple but very cool to use. //
