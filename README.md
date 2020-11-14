@@ -24,6 +24,8 @@ Wards: [$2]
 
 // These prices are implemented in the Program. //
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 11/13/20
 
 // I have updated the code to have a menu now. It has 3 options, which is "start", "Inventory Price List", and "Exit". //
